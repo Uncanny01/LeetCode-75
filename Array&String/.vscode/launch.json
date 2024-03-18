@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dhruvsoni/Documents/LeetCode-75/Array/String",
+      "program": "/Users/dhruvsoni/Documents/LeetCode-75/Array/String/build/Debug/outDebug"
+    }
+  ]
+}
